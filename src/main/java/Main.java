@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 
-public class GildedRose {
+public class Main {
 
 	private static List<Item> items = null;
 
